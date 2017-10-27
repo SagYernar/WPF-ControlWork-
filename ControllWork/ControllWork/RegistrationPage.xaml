@@ -1,0 +1,20 @@
+﻿<Page x:Class="ControllWork.RegistrationPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ControllWork"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="RegistrationPage" Width="460">
+
+    <Grid  Width="460" Margin="-1,3,1,-3">
+        <TextBox x:Name="loginTextBox" HorizontalAlignment="Left" Height="23" Margin="217,79,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="ИИН" HorizontalAlignment="Left" Margin="143,76,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="registrateButton" Content="Зарегистрироваться" HorizontalAlignment="Left" Margin="167,127,0,0" VerticalAlignment="Top" Width="134" Click="RegistrateButton_Click"/>
+        <Label x:Name="incorrectIIN" Content="Неверно введенный ИИН" HorizontalAlignment="Left" Margin="217,48,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
+        <Label x:Name="notFreeIIN" Content="ИИН уже занят" HorizontalAlignment="Left" Margin="217,48,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
+        <TextBox x:Name="yourPasswordTextBox" HorizontalAlignment="Left" Height="23" Margin="157,177,0,0" TextWrapping="Wrap" Text="Ваш пароль" VerticalAlignment="Top" Width="153"/>
+
+    </Grid>
+</Page>

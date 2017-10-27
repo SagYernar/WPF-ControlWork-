@@ -1,0 +1,22 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:ControllWork">
+    
+    <Style TargetType="Grid">
+        <Setter Property="Background" Value="#FF49717A"/>
+    </Style>
+    <Style TargetType="Button">
+        <Setter Property="Control.Foreground" Value="#FF6CDCDC"/>
+        <Setter Property="Control.Background" Value="#FF0725AA"/>
+        <Setter Property="Control.BorderBrush" Value="#FF0A0D47"/>
+    </Style>
+    <Style TargetType="Label">
+        <Setter Property="Control.Foreground" Value="#FF6CDCDC"/>
+    </Style>
+    <Style TargetType="TextBox">
+        <Setter Property="Control.Foreground" Value="#FF6CDCDC"/>
+        <Setter Property="Control.Background" Value="#FF0725AA"/>
+        <Setter Property="Control.BorderBrush" Value="#FF0A0D47"/>
+    </Style>
+
+</ResourceDictionary>

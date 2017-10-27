@@ -1,0 +1,9 @@
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ControllWork\DataBase\bin\Debug\DataBase.dll
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ControllWork\DataBase\bin\Debug\DataBase.pdb
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ControllWork\DataBase\bin\Debug\Model.dll
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ControllWork\DataBase\bin\Debug\Newtonsoft.Json.dll
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ControllWork\DataBase\bin\Debug\Model.pdb
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ControllWork\DataBase\bin\Debug\Newtonsoft.Json.xml
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ControllWork\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ControllWork\DataBase\obj\Debug\DataBase.dll
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ControllWork\DataBase\obj\Debug\DataBase.pdb

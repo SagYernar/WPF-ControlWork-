@@ -1,0 +1,4 @@
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ControllWork\Model\bin\Debug\Model.dll
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ControllWork\Model\bin\Debug\Model.pdb
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ControllWork\Model\obj\Debug\Model.dll
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ControllWork\Model\obj\Debug\Model.pdb
